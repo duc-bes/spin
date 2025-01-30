@@ -1,4 +1,4 @@
-import { AlignText } from '../../../src/constants.js';
+import { AlignText } from '../constants.js';
 
 export const props = [
 
