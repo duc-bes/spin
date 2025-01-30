@@ -231,6 +231,7 @@ export const props = [
     itemLabelFont: 'Helvetica',
     itemLabelFontSizeMax: 22,
     lineWidth: 1,
+    rotationResistance: -110,
     lineColor: '#000',
     overlayImage: './img/example-1-overlay.svg',
     isInteractive: false,
