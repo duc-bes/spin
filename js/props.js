@@ -235,6 +235,7 @@ export const props = [
     lineColor: '#000',
     overlayImage: './img/example-1-overlay.svg',
     isInteractive: false,
+    pointerAngle: 90,
     items: [
       {
         label: '$ 20',
